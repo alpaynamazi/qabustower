@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1219f817.css",
+    "main.js": "/static/js/main.5b1859a5.js",
+    "static/js/787.ee0afbbf.chunk.js": "/static/js/787.ee0afbbf.chunk.js",
+    "static/media/front-page-tower.jpg": "/static/media/front-page-tower.54bdbe9d4c2fd9da8fa1.jpg",
+    "static/media/map.svg": "/static/media/map.468f15caa5c2718ccfa451fa0c641838.svg",
+    "static/media/map-northern.svg": "/static/media/map-northern.5bbf9b7dbb0fb5855ec4b5efb5c129cf.svg",
+    "static/media/map-western.svg": "/static/media/map-western.ec88b59a0de1b6395f2b79320979fd5a.svg",
+    "static/media/map-southern.svg": "/static/media/map-southern.09edf0ae1bfb579bcd6f7ea929b93421.svg",
+    "static/media/logo.png": "/static/media/logo.ccefaf35e68b2b3fc8e4.png",
+    "static/media/municipality.svg": "/static/media/municipality.0f92047b82eb073311f64f3740bb4836.svg",
+    "static/media/cs50x.svg": "/static/media/cs50x.fcdd7d0fa0e87a99c6c54c82fdd16ef6.svg",
+    "static/media/here.svg": "/static/media/here.77bb5319183245f87aa061cd6f8433d0.svg",
+    "index.html": "/index.html",
+    "main.1219f817.css.map": "/static/css/main.1219f817.css.map",
+    "main.5b1859a5.js.map": "/static/js/main.5b1859a5.js.map",
+    "787.ee0afbbf.chunk.js.map": "/static/js/787.ee0afbbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1219f817.css",
+    "static/js/main.5b1859a5.js"
+  ]
+}
